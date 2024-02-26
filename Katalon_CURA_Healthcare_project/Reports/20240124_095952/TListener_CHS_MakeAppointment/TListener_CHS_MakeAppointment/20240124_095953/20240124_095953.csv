@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TListener_CHS_MakeAppointment,,,,2024-01-24 10:00:05,2024-01-24 10:00:12,6.700s,PASSED
+,,,,,,,
+Test Cases/TC_CHS_MakeAppointment/TC_CHS_MakeAppointement_002,,,,2024-01-24 10:00:06,2024-01-24 10:00:12,6.404s,PASSED
+Start listener action : sampleBeforeTestCase,,,,2024-01-24 10:00:06,2024-01-24 10:00:11,5.006s,PASSED
+"setText(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",,,,2024-01-24 10:00:11,2024-01-24 10:00:11,0.111s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",,,,2024-01-24 10:00:11,2024-01-24 10:00:11,0.122s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/button_Login""))",,,,2024-01-24 10:00:11,2024-01-24 10:00:11,0.105s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",,,,2024-01-24 10:00:11,2024-01-24 10:00:11,0.138s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f""))",,,,2024-01-24 10:00:11,2024-01-24 10:00:11,0.120s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/input_Medicaid_programs""))",,,,2024-01-24 10:00:11,2024-01-24 10:00:12,0.086s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",,,,2024-01-24 10:00:12,2024-01-24 10:00:12,0.096s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/td_30""))",,,,2024-01-24 10:00:12,2024-01-24 10:00:12,0.072s,PASSED
+"setText(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Hi"")",,,,2024-01-24 10:00:12,2024-01-24 10:00:12,0.097s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare MakeAppointment/Page_CURA Healthcare Service/button_Book Appointment""))",,,,2024-01-24 10:00:12,2024-01-24 10:00:12,0.079s,PASSED
+Start listener action : sampleAfterTestCase,,,,2024-01-24 10:00:12,2024-01-24 10:00:12,0.021s,PASSED

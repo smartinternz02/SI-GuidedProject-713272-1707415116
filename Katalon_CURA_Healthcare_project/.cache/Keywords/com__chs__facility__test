@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "7FD8E5101CF92B076E2F2C1C08BFEFF8",
+  "keywordClasses": [
+    {
+      "name": "com.chs.facility.test",
+      "keywordMethods": [
+        {
+          "name": "clickElement",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
